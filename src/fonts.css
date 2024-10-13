@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Mosvita';
+  src: url('/src/fonts/mosvita-regular-webfont.woff2') format('woff2'),
+       url('/src/fonts/mosvita-regular-webfont.woff') format('woff'),
+       url('/src/fonts/Mosvita-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Mosvita', sans-serif;
+}
